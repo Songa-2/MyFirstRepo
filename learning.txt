@@ -1,0 +1,1 @@
+So far, I’ve learned how to create repositories, commit changes, and manage versions on GitHub. This journey has shown me how collaboration works in open-source projects.
